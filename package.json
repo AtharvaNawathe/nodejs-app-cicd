@@ -1,6 +1,15 @@
 {
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "lodash": "*",
+    "request": "*",
+    "debug": "*",
+    "moment": "*",
+    "uglify-js": "*",
+    "ws": "*",
+    "xml2js": "*",
+    "uuid": "*",
+    "body-parser": "*"
   },
   "scripts": {
     "start": "node app.js"
@@ -11,5 +20,5 @@
   "devDependencies": {},
   "author": "Atharva",
   "license": "MIT",
-  "description": "NodeJS Project with Expres FrameWork and Running in Docker Container"
+  "description": "NodeJS Project with Express Framework and Running in Docker Container"
 }
