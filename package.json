@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "lodash": "4.17.21"
   },
   "scripts": {
     "start": "node app.js"
@@ -9,7 +10,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "devDependencies": {},
-  "author": "Aditya",
+  "author": "Atharva",
   "license": "MIT",
   "description": "NodeJS Project with Expres FrameWork and Running in Docker Container"
 }
